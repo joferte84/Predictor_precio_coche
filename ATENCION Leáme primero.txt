@@ -1,0 +1,7 @@
+Aviso Importante:
+
+En este entorno de Jupyter, la ejecución de este documento genera un total de 14 archivos (pickles). Para garantizar un manejo adecuado, se recomienda mantener esta carpeta en un directorio que no cause inconvenientes.
+
+Nota adicional:
+
+Los Grid Search incluidos en este documento están completamente funcionales, pero han sido comentados por razones de eficiencia en el tiempo de ejecución. Los valores óptimos obtenidos a través de estos Grid Search se encuentran reflejados en la optimización posterior.

@@ -1,0 +1,196 @@
+mark,model,type
+audi,A1,Hatchback
+audi,A6,Sedán
+audi,A4,Sedán
+audi,A3,Hatchback
+audi,Q3,SUV
+audi,Q5,SUV
+audi,A5,Coupe
+audi,S4,Sedán
+audi,Q2,SUV
+audi,A7,Sedán
+audi,TT,Coupe
+audi,Q7,SUV
+audi,RS6,Sedán
+audi,RS3,Hatchback
+audi,A8,Sedán
+audi,Q8,SUV
+audi,RS4,Sedán
+audi,RS5,Coupe
+audi,R8,Deportivo
+audi,SQ5,SUV
+audi,S8,Sedán
+audi,SQ7,SUV
+audi,S3,Hatchback
+audi,S5,Coupe
+audi,A2,Hatchback
+audi,RS7,Sedán
+bmw,5 Series,Sedán
+bmw,6 Series,Coupe
+bmw,1 Series,Hatchback
+bmw,7 Series,Sedán
+bmw,2 Series,Coupe
+bmw,4 Series,Coupe
+bmw,X3,SUV
+bmw,3 Series,Sedán
+bmw,X5,SUV
+bmw,X4,SUV
+bmw,i3,Hatchback
+bmw,X1,SUV
+bmw,M4,Coupe
+bmw,X2,SUV
+bmw,X6,SUV
+bmw,8 Series,Coupe
+bmw,Z4,Convertible
+bmw,X7,SUV
+bmw,M5,Sedán
+bmw,i8,Deportivo
+bmw,M2,Coupe
+bmw,M3,Sedán
+bmw,M6,Coupe
+bmw,Z3,Convertible
+ford,Fiesta,Hatchback
+ford,Focus,Hatchback
+ford,Puma,SUV
+ford,Kuga,SUV
+ford,EcoSport,SUV
+ford,C-MAX,Minivan
+ford,Mondeo,Sedán
+ford,Ka+,Hatchback
+ford,Tourneo Custom,Minivan
+ford,S-MAX,Minivan
+ford,B-MAX,Minivan
+ford,Edge,SUV
+ford,Tourneo Connect,Minivan
+ford,Grand C-MAX,Minivan
+ford,KA,Hatchback
+ford,Galaxy,Minivan
+ford,Mustang,Deportivo
+ford,Grand Tourneo Connect,Minivan
+ford,Fusion,Sedán
+ford,Ranger,Pickup
+ford,Streetka,Convertible
+ford,Escort,Hatchback
+ford,Transit Tourneo,Minivan
+hyundai,I20,Hatchback
+hyundai,Tucson,SUV
+hyundai,I10,Hatchback
+hyundai,IX35,SUV
+hyundai,I30,Hatchback
+hyundai,I40,Sedán
+hyundai,Ioniq,Hatchback
+hyundai,Kona,SUV
+hyundai,Veloster,Hatchback
+hyundai,I800,Minivan
+hyundai,IX20,Hatchback
+hyundai,Santa Fe,SUV
+hyundai,Accent,Sedán
+hyundai,Terracan,SUV
+hyundai,Getz,Hatchback
+hyundai,Amica,Hatchback
+mercedes-benz,SLK,Convertible
+mercedes-benz,S Class,Sedán
+mercedes-benz,SL CLASS,Convertible
+mercedes-benz,G Class,SUV
+mercedes-benz,GLE Class,SUV
+mercedes-benz,GLA Class,SUV
+mercedes-benz,A Class,Hatchback
+mercedes-benz,B Class,Minivan
+mercedes-benz,GLC Class,SUV
+mercedes-benz,C Class,Sedán
+mercedes-benz,E Class,Sedán
+mercedes-benz,GL Class,SUV
+mercedes-benz,CLS Class,Sedán
+mercedes-benz,CLC Class,Coupe
+mercedes-benz,CLA Class,Sedán
+mercedes-benz,V Class,Minivan
+mercedes-benz,M Class,SUV
+mercedes-benz,CL Class,Coupe
+mercedes-benz,GLS Class,SUV
+mercedes-benz,GLB Class,SUV
+mercedes-benz,X-CLASS,Pickup
+mercedes-benz,180,Sedán
+mercedes-benz,CLK,Coupe
+mercedes-benz,R Class,Minivan
+mercedes-benz,230,Sedán
+mercedes-benz,220,Sedán
+mercedes-benz,200,Sedán
+skoda,Octavia,Sedán
+skoda,Citigo,Hatchback
+skoda,Yeti Outdoor,SUV
+skoda,Superb,Sedán
+skoda,Kodiaq,SUV
+skoda,Rapid,Sedán
+skoda,Karoq,SUV
+skoda,Fabia,Hatchback
+skoda,Yeti,SUV
+skoda,Scala,Hatchback
+skoda,Roomster,Minivan
+skoda,Kamiq,SUV
+toyota,GT86,Coupe
+toyota,Corolla,Hatchback
+toyota,RAV4,SUV
+toyota,Yaris,Hatchback
+toyota,Auris,Hatchback
+toyota,Aygo,Hatchback
+toyota,C-HR,SUV
+toyota,Prius,Hatchback
+toyota,Avensis,Sedán
+toyota,Verso,Minivan
+toyota,Hilux,Pickup
+toyota,PROACE VERSO,Minivan
+toyota,Land Cruiser,SUV
+toyota,Supra,Deportivo
+toyota,Camry,Sedán
+toyota,Verso-S,Hatchback
+toyota,IQ,Hatchback
+toyota,Urban Cruiser,SUV
+opel,Corsa,Hatchback
+opel,Astra,Hatchback
+opel,Viva,Hatchback
+opel,Mokka,SUV
+opel,Mokka X,SUV
+opel,Crossland X,SUV
+opel,Zafira,Minivan
+opel,Meriva,Minivan
+opel,Zafira Tourer,Minivan
+opel,Adam,Hatchback
+opel,Grandland X,SUV
+opel,Antara,SUV
+opel,Insignia,Sedán
+opel,Ampera,Hatchback
+opel,GTC,Coupe
+opel,Combo Life,Minivan
+opel,Vivaro,Furgoneta
+opel,Cascada,Convertible
+opel,Kadjar,SUV
+opel,Agila,Hatchback
+opel,Tigra,Convertible
+opel,Vectra,Sedán
+volkswagen,T-Roc,SUV
+volkswagen,Golf,Hatchback
+volkswagen,Passat,Sedán
+volkswagen,T-Cross,SUV
+volkswagen,Polo,Hatchback
+volkswagen,Tiguan,SUV
+volkswagen,Sharan,Minivan
+volkswagen,Up,Hatchback
+volkswagen,Scirocco,Coupe
+volkswagen,Beetle,Hatchback
+volkswagen,Caddy Maxi Life,Furgoneta
+volkswagen,Caravelle,Minivan
+volkswagen,Touareg,SUV
+volkswagen,Arteon,Sedán
+volkswagen,Touran,Minivan
+volkswagen,Golf SV,Hatchback
+volkswagen,Amarok,Pickup
+volkswagen,Tiguan Allspace,SUV
+volkswagen,Shuttle,Minivan
+volkswagen,Jetta,Sedán
+volkswagen,CC,Sedán
+volkswagen,California,Minivan
+volkswagen,Caddy Life,Furgoneta
+volkswagen,Caddy,Furgoneta
+volkswagen,Caddy Maxi,Furgoneta
+volkswagen,Eos,Convertible
+volkswagen,Fox,Hatchback
