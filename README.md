@@ -26,3 +26,8 @@ Este proyecto implementa un modelo de Machine Learning que utiliza datos histór
   ```
 3. ** Abre y ejecuta el notebook `The_final_countdown.ipynb` para ver el flujo de trabajo y las predicciones.**
 
+## Aviso Importante
+En este entorno de Jupyter, la ejecución de este documento genera un total de 14 archivos (pickles). Para garantizar un manejo adecuado, se recomienda mantener esta carpeta en un directorio que no cause inconvenientes.
+
+### Nota Adicional
+Los Grid Search incluidos en este documento están completamente funcionales, pero han sido comentados por razones de eficacia en el tiempo de ejecución. Los valores óptimos obtenidos a través de estos Grid Search se encuentran reflejados en la optimización posterior.
